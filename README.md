@@ -111,4 +111,4 @@ if you release early, it tells you and resets. no drama.
 
 ---
 
-<p align="center">built for people who eat at their desks.</p>
+<p align="center">built with care.</p>
